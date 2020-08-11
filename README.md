@@ -20,6 +20,7 @@ This library enables you to manage [GitHub] resources such as repositories, user
 
 ```bash
 $ pip install PyGithub
+
 ```
 
 ## Simple Demo
