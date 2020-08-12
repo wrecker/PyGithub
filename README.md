@@ -12,8 +12,8 @@
 PyGitHub is a Python library to access the [GitHub API v3] and [Github Enterprise API v3].
 This library enables you to manage [GitHub] resources such as repositories, user profiles, and organizations in your Python applications.
 
-[GitHub API v3]: https://developer.github.com/v3
-[Github Enterprise API v3]: https://developer.github.com/enterprise/v3/
+[GitHub API v3]: https://docs.github.com/v3
+[Github Enterprise API v3]: https://docs.github.com/enterprise/v3/
 [GitHub]: https://github.com
 
 ## Install
